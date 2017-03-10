@@ -1,3 +1,5 @@
+profile: qa
+
 security:
   basic:
     enabled: false # turn off securing our application endpoints
